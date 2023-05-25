@@ -10,7 +10,7 @@ namespace GitTutorial
     {
         public static string GreetingMessage()
         {
-            return "Hello world source control";
+            return "Hello world source control from Tim";
         }
     }
 }
